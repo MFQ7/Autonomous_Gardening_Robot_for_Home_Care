@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAeKB3BtG6AHbQ0KymGHuhjJbVCHadxv28",
+    apiKey: "",
     authDomain: "plantcare-5de83.firebaseapp.com",
     databaseURL: "https://plantcare-5de83-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "plantcare-5de83",
